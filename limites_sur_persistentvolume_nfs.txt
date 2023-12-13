@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/56430155/kubernetes-persistent-volume-claim-size-is-not-truly-limited
+
+https://github.com/kubernetes/kubernetes/issues/61641

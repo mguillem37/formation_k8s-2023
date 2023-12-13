@@ -1,0 +1,3 @@
+https://www.golinuxcloud.com/drop-connection-iptables/
+https://www.cyberciti.biz/tips/linux-iptables-examples.html
+https://www.thegeekstuff.com/2011/06/iptables-rules-examples/
